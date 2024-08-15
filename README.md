@@ -2,6 +2,8 @@
  Calculadora
 Este proyecto consiste en una calculadora web simple, construida utilizando HTML, CSS y JavaScript. A continuación, se detallan los componentes principales del código y su funcionalidad.
 
+[![imagen-2024-08-15-112737645.png](https://i.postimg.cc/HWPkzt3z/imagen-2024-08-15-112737645.png)](https://postimg.cc/JtZ84ZfH)
+
 Estructura del Proyecto
 Archivos Principales
 index.html: Este archivo contiene la estructura básica de la calculadora.
