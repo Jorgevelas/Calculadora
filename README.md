@@ -28,8 +28,8 @@ Botones: Cada botón tiene una clase que lo categoriza como numero u operador, p
 CSS
 el estilo CSS define la apariencia de los elementos de la página web.
  proporciona un  estilo  para  el fondo de la calculadora y su estilo en forma rectangular 
-proporciona un estilo para los botones y el fondo 
-el fondo de la pantalla
+proporciona un estilo para los botones y el fondo de la pantalla
+ 
 
 JAVASCRIPT
 el primero titulado calculadora proporciona métodos para realizar operaciones matemáticas básicas: suma, resta, división y multiplicación. Esta implementación es sencilla y permite a los usuarios realizar cálculos de manera rápida y eficiente.
