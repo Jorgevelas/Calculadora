@@ -7,7 +7,7 @@ Este proyecto consiste en una calculadora web simple, construida utilizando HTML
 Estructura del Proyecto
 Archivos Principales
 index.html: Este archivo contiene la estructura básica de la calculadora.
-index.css: Archivo de estilos que define la apariencia de la calculadora.
+style.css: Archivo de estilos que define la apariencia de la calculadora.
 Display.js: Script que maneja la visualización de los valores en la calculadora.
 Calculadora.js: Script que contiene la lógica de operaciones matemáticas.
 index.js: Script que inicializa la calculadora y maneja interacciones del usuario.}
