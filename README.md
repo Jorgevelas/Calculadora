@@ -32,17 +32,14 @@ proporciona un estilo para los botones y el fondo
 el fondo de la pantalla
 
 JAVASCRIPT
-el primero titulodo calculadora proporciona métodos para realizar operaciones matemáticas básicas: suma, resta, división y multiplicación. Esta implementación es sencilla y permite a los usuarios realizar cálculos de manera rápida y eficiente.
+el primero titulado calculadora proporciona métodos para realizar operaciones matemáticas básicas: suma, resta, división y multiplicación. Esta implementación es sencilla y permite a los usuarios realizar cálculos de manera rápida y eficiente.
 
-el segundo tiutlado Display gestiona la lógica de interacción de una calculadora, permitiendo al usuario ingresar números, realizar operaciones y ver los resultados en la interfaz de usuario. Utiliza métodos para manejar la entrada del usuario y actualizar la pantalla de la calculadora utilizando 
+el segundo titulado  Display gestiona la lógica de interacción de una calculadora, permitiendo al usuario ingresar números, realizar operaciones y ver los resultados en la interfaz de usuario. Utiliza métodos para manejar la entrada del usuario y actualizar la pantalla de la calculadora utilizando 
 
 displayValorAnterior y displayValorActual: Elementos del DOM donde se mostrarán los valores.
-calculador: Instancia de otra clase llamada Calculadora, que probablemente maneja las operaciones matemáticas.
+calculador: Instancia de otra clase llamada Calculadora, que maneja las operaciones matemáticas.
 tipoOperacion: Almacena el tipo de operación actual (suma, resta, etc.).
 valorActual y valorAnterior: Cadenas que almacenan los números actuales y anteriores.
 signos: Un objeto que mapea los tipos de operaciones a sus símbolos correspondiente
-
-
-
 
 
