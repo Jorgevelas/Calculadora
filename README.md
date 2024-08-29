@@ -21,7 +21,7 @@ meta nombre="viewport" content="ancho=ancho del dispositivo, escala inicial=1.0"
 título de la página web
 enlaces a la hoja de estilo y fuentes externas
 Incluye un contenedor para agrupar y esta compuesto por
- Contenedor Principal: Utiliza una <div> con la clase container que alberga toda la calculadora.
+ Contenedor Principal: Utiliza un <div> con la clase container que alberga toda la calculadora.
 Display: Dos <div>s dentro de la clase display muestran el valor anterior y el valor actual.
 Botones: Cada botón tiene una clase que lo categoriza como numero u operador, permitiendo la interacción del usuario. Los botones de los números permiten ingresar valores, mientras que los botones de operadores ejecutan operaciones matemáticas.
 
